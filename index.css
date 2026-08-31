@@ -154,7 +154,7 @@ page[size="A4"] {
 .leftPanel {
     width: 27%;
     background-color: #0e0e3a;
-    padding: 0.7cm;
+    padding: 0.5cm;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -210,6 +210,10 @@ page[size="A4"] {
     justify-content: center;
 }
 
+.education-menu > .smallText > p.bolded.white{
+    text-align:left;
+}
+
 .alignleft {
     text-align: left !important;
     width: 1cm;
@@ -263,9 +267,13 @@ page[size="A4"] {
 }
 
 .item {
-    padding-top: 0.7cm;
+    padding-top: 0.5cm;
     padding-bottom: 0cm;
-    
+
+}
+.sub-item{
+    padding-top: 0.25cm;
+    padding-bottom: 0cm;
 }
 
 .item h2 {
