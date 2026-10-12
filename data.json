@@ -1,0 +1,128 @@
+{
+  "name": "Kevin Arfelli",
+  "role": "SysAdmin - DevOp - HPC Engineer - Software Integration",
+  "about": [
+    "Born December 1999, I'm a passionate developer, who specializes in <b>Backend Systems</b>, which goes from monoliths to <b>Microservices</b>. A big fan of <b>Workflows Automation</b> and <b>Distributed Computing</b>.",
+    "Experienced in planning and writing software following principles of code <i>Cleanness</i> and <i>Pragmatism</i>.",
+    "Proficient in Java, Kotlin, C#, Python, C++"
+  ],
+
+  "contacts": [
+    { "type": "email",    "value": "kevin.arfelli@yahoo.it" },
+    { "type": "phone",    "value": "shared via e-mail" },
+    { "type": "location", "value": "Ravenna, Italy" },
+    { "type": "linkedin", "value": "in/kevin-arfelli/" }
+  ],
+
+  "tech_skills": [
+    { "name": "Linux",       "years": "13 year" },
+    { "name": "Containers",  "years": "8 year" },
+    { "name": "IOT",         "years": "7 year" },
+    { "name": "CI/CD",       "years": "5 year" },
+    { "name": "HPC",         "years": "4 year" }
+  ],
+
+  "programming": [
+    { "name": "Java",        "years": "13 year" },
+    { "name": "Python",      "years": "10 year" },
+    { "name": "C++",         "years": "6 year" },
+    { "name": "C# .NET CORE", "years": "5 year" }
+  ],
+
+  "side_skills": [
+    "Mentor",
+    "Problem Solver",
+    "Team Player",
+    "Bugs/Exploit Hunter",
+    "Knowledge Seeker"
+  ],
+
+  "education": [
+    {
+      "title": "Bachelor's Degree in Computer Science and Engineering",
+      "institution": "The University of Bologna",
+      "period": "2018 - 2026"
+    },
+    {
+      "title": "HighSchool Qualification in Information Tecnology",
+      "institution": "ITIS \"Nullo Baldini\" of Ravenna",
+      "period": "2013 - 2018"
+    }
+  ],
+
+  "experiences": [
+    {
+      "position": "System Administrator",
+      "period": "Dec 2022 - Present",
+      "company": "Freelancer",
+      "description": "Senior System Administrator of Virtual Environments Servers (Proxmox VE) and Internal Services.",
+      "points": [
+        "Proxmox administration",
+        "LXC and Docker containers",
+        "Monitoring, Security and Automation",
+        "System Integration in Linux Domains"
+      ],
+      "skills": ["Proxmox", "LXC", "Docker", "Prometheus", "Grafana"]
+    },
+    {
+      "position": "CI/CD Engineer",
+      "period": "Nov 2022 - Aug 2023",
+      "company": "Freelancer",
+      "description": "Automation Engineer. Responsible of Developing Continuos Integration and Delivery Pipelines.",
+      "points": [
+        "Github actions Workflows Development",
+        "Steam Deploy Pipeline",
+        "Docker Containers & Container Deployments"
+      ],
+      "skills": ["Docker", "Github Actions"]
+    },
+    {
+      "position": "Junior IT Operator",
+      "period": "Jun 2017 - Feb 2017",
+      "company": "Spring Italia S.r.l.",
+      "description": "Junior System Administrator and IT Technician team. Responsible of automatons and installations.",
+      "points": [
+        "Script Automation",
+        "Device Maintenance",
+        "Server & Workstation Installations"
+      ],
+      "skills": ["Python"]
+    },
+    {
+      "position": "Junior IT Operator",
+      "period": "Jun 2016 - Sept 2018",
+      "company": "ITIS \"Nullo Baldini\" of Ravenna",
+      "description": "Junior System Administrator and IT Technician team. Responsible of the network infrastructure, workstations and servers.",
+      "points": [
+        "IT Networking and Security, of a multi floor building.",
+        "Virtual Environments Server (ESXi)",
+        "Technical Intervention on workstations and servers"
+      ],
+      "skills": ["ESXi", "IT Networking"]
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "High Performance Computing",
+      "date": "14 July 2021",
+      "institution": "University of Bologna",
+      "description": "Approaches of Parallelism in Development of High Performance Computing Algorithms",
+      "points": ["OpenMP", "MPI", "CUDA"]
+    },
+    {
+      "title": "Embedded Systems and Internet Of Things",
+      "date": "28 July 2022",
+      "institution": "University of Bologna",
+      "description": "Approaches of Embedded Systems Development and Communication Protocols for Internet of Things",
+      "points": ["Arduino/Wiring", "ESP32", "Micro controller Unit (MCU)", "Single Board Computer (SBC)", "System on a Chip (SOC)"]
+    },
+    {
+      "title": "Systems Integration",
+      "date": "16 June 2021",
+      "institution": "University of Bologna",
+      "description": "Integration of software with domains",
+      "points": ["Active Directory Domains", "LDAP", "Docker", "Kubernetes", "Virtualization"]
+    }
+  ]
+}
