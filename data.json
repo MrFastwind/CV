@@ -54,8 +54,8 @@
     {
       "position": "System Administrator",
       "period": "Dec 2022 - Present",
-      "company": "Freelancer",
-      "description": "Senior System Administrator of Virtual Environments Servers (Proxmox VE) and Internal Services.",
+      "company": "Personal Project",
+      "description": "System Administrator of Virtual Environments Servers (Proxmox VE) and Internal Services.",
       "points": [
         "Proxmox administration",
         "LXC and Docker containers",
@@ -80,7 +80,7 @@
       "position": "Junior IT Operator",
       "period": "Jun 2017 - Feb 2017",
       "company": "Spring Italia S.r.l.",
-      "description": "Junior System Administrator and IT Technician team. Responsible of automatons and installations.",
+      "description": "Junior System Administrator and IT Technician team. Responsible of automation and installations.",
       "points": [
         "Script Automation",
         "Device Maintenance",
