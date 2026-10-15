@@ -297,3 +297,39 @@ page[size="A4"] {
 }
 
 /*End Layout*/
+
+/* Profile Selector (screen only) */
+.profile-selector {
+    display: flex;
+    justify-content: center;
+    gap: 0.2cm;
+    padding: 0.4cm 0;
+}
+
+.profile-tab {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 0.45cm;
+    padding: 0.15cm 0.8cm;
+    border: 0.05cm solid #0e0e3a;
+    background-color: white;
+    color: #0e0e3a;
+    cursor: pointer;
+}
+
+.profile-tab:hover {
+    background-color: #dcdce8;
+}
+
+.profile-tab.active {
+    background-color: #0e0e3a;
+    color: white;
+}
+
+/* The selector must never end up in the printed A4 output */
+@media print {
+    .profile-selector {
+        display: none !important;
+    }
+}
+
+/*End Profile Selector*/

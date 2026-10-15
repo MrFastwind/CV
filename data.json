@@ -1,11 +1,5 @@
 {
   "name": "Kevin Arfelli",
-  "role": "SysAdmin - DevOp - HPC Engineer - Software Integration",
-  "about": [
-    "Born December 1999, I'm a passionate developer, who specializes in <b>Backend Systems</b>, which goes from monoliths to <b>Microservices</b>. A big fan of <b>Workflows Automation</b> and <b>Distributed Computing</b>.",
-    "Experienced in planning and writing software following principles of code <i>Cleanness</i> and <i>Pragmatism</i>.",
-    "Proficient in Java, Kotlin, C#, Python, C++"
-  ],
 
   "contacts": [
     { "type": "email",    "value": "kevin.arfelli@yahoo.it" },
@@ -124,5 +118,34 @@
       "description": "Integration of software with domains",
       "points": ["Active Directory Domains", "LDAP", "Docker", "Kubernetes", "Virtualization"]
     }
-  ]
+  ],
+
+  "profiles": {
+    "developer": {
+      "label": "Developer",
+      "role": "Software Developer - DevOp - HPC Engineer - Software Integration",
+      "about": [
+        "Born December 1999, I have an academic background spanning Software Development and IT Management. I'm a passionate Software Engineer, specializing in <b>Backend Systems</b>, which goes from monoliths to <b>Microservices</b>. A big fan of <b>Workflows Automation</b> and <b>Distributed Computing</b>.",
+        "I have experience designing and developing software guided by principles of code <i>Cleanness</i> and <i>Pragmatism</i>.",
+        "Proficient in Java, Kotlin, C#, Python, C++"
+      ],
+      "tech_skills": ["Linux", "Containers", "IOT", "CI/CD", "HPC"],
+      "programming": ["Java", "Python", "C++", "C# .NET CORE"],
+      "side_skills": ["Mentor", "Problem Solver", "Bugs/Exploit Hunter", "Knowledge Seeker"],
+      "experiences": [0, 1, 2, 3]
+    },
+    "it_operator": {
+      "label": "IT Operator",
+      "role": "System Administrator - IT Operator - Infrastructure & Integration Engineer",
+      "about": [
+        "Born December 1999, I have an academic background spanning Software Development and IT Management. I'm a passionate Software Engineer, specializing  in <b>System Administration</b> and <b>Infrastructure Management</b>, from bare-metal servers to <b>Virtual Environments</b> and containerized services. A big fan of <b>Orchestration</b>, <b>Security Hardening</b> and <b>Service Automation</b>.",
+        "I have experience designing and developing software guided by parameters of <i>reliability</i>, <i>security</i> and <i>documentation quality</i>, with a pragmatic approach to incident handling, maintenance and structured planning.",
+        "Proficient in Linux, Proxmox, Docker, IT Networking and the typical tooling of an IT operator"
+      ],
+      "tech_skills": ["Linux", "Containers", "IOT", "CI/CD",  "HPC"],
+      "programming": ["Java", "Python", "C++", "C# .NET CORE"],
+      "side_skills": ["Team Player", "Problem Solver", "Knowledge Seeker"],
+      "experiences": [0,1,2,3]
+    }
+  }
 }
