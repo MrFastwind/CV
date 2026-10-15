@@ -82,7 +82,7 @@ const CV_DATA = {
       "position": "Junior IT Operator",
       "period": "Jun 2017 - Feb 2017",
       "company": "Spring Italia S.r.l.",
-      "description": "Junior System Administrator and IT Technician team. Responsible of automatons and installations.",
+      "description": "Junior System Administrator and IT Technician team. Responsible of automation and installations.",
       "points": [
         "Script Automation",
         "Device Maintenance",
