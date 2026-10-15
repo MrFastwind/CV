@@ -56,8 +56,8 @@ const CV_DATA = {
     {
       "position": "System Administrator",
       "period": "Dec 2022 - Present",
-      "company": "Freelancer",
-      "description": "Senior System Administrator of Virtual Environments Servers (Proxmox VE) and Internal Services.",
+      "company": "Personal Project",
+      "description": "System Administrator of Virtual Environments Servers (Proxmox VE) and Internal Services.",
       "points": [
         "Proxmox administration",
         "LXC and Docker containers",
